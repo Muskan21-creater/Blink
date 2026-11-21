@@ -101,4 +101,3 @@ GitHub: [Muskan21-creater](https://github.com/Muskan21-creater)
 
 ---
 
-*Note: This repository is based on the original project source. Original authorship and contributions should be credited appropriately.*
