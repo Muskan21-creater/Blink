@@ -1,0 +1,30 @@
+{
+	"compilerOptions": {
+		"target": "ES2022",
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"outDir": "dist",
+		"rootDir": "./",
+		"baseUrl": "./src",
+		"paths": {
+			"@/*": [
+				"*"
+			]
+		},
+		"types": [
+			"bun-types"
+		],
+		"esModuleInterop": true,
+		"resolveJsonModule": true,
+		"declaration": false,
+		"skipLibCheck": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true
+	},
+	"include": [
+		"src/**/*",
+		"docs/**/*",
+		"scripts/**/*",
+		"build.js"
+	]
+}
